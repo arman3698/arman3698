@@ -1,0 +1,2 @@
+
+<embed src>="file/new cv"type="application/pdf" 
